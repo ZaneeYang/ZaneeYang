@@ -10,7 +10,7 @@
 ✨**Let's explore the wonderful world with curiosity!**
 
 <p>
-  I build agentic systems for <strong>Deep Research</strong> and <strong>Deep Search</strong> — helping people not just find answers, but understand how those answers take shape. As information grows more abundant, I believe the real challenge is no longer access, but understanding.
+  As information grows more abundant, I believe the real challenge is no longer access, but understanding — not just finding answers, but knowing how they take shape.
 </p>
 
 
