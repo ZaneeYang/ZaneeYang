@@ -14,7 +14,7 @@
 </p>
 
 
-- 🤖 I am currently an Algorithm Engineer at **Tencent FinTech**, focusing on **Deep Research** and **Deep Search** — building agentic systems that search, connect, and verify scattered evidence, then reason over it to produce grounded answers.
+- 🤖 I am currently an AI Agent Researcher at **Tencent FinTech**, focusing on **Deep Research** and **Deep Search** — building agentic systems that search, connect, and verify scattered evidence, then reason over it to produce grounded answers.
 
 - 🎓 I received my master's degree from the School of Future Technology, South China University of Technology, under the guidance of Prof. [Xu Jin](https://www2.scut.edu.cn/ft/2021/1220/c29779a467423/page.htm). Before that, I joined the Multi-relational Geometric Information Interaction *(MAGIC)* Research Group at Xi’an Jiaotong University with Prof. [Danyang Wu](https://danyangwucs.github.io/), working on multi-view graph clustering.
 
