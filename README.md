@@ -9,6 +9,10 @@
 
 ✨**Let's explore the wonderful world with curiosity!**
 
+<p>
+  I build agentic systems for <strong>Deep Research</strong> and <strong>Deep Search</strong> — helping people not just find answers, but understand how those answers take shape. As information grows more abundant, I believe the real challenge is no longer access, but understanding.
+</p>
+
 
 - 🤖 I am currently an AI Agent Researcher at **Tencent FinTech**, focusing on **Deep Research** and **Deep Search** — building agentic systems that search, connect, and verify scattered evidence, then reason over it to produce grounded answers.
 
