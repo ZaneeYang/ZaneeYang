@@ -12,9 +12,9 @@
 
 - 💡 As information grows more abundant, I believe the real challenge is no longer access, but understanding — not just finding answers, but knowing how they take shape.
 
-- 🤖 I am currently an AI Agent Researcher at **Tencent FinTech**, focusing on **AI Agents**, especially **Deep Search**.
+- 🤖 I am currently an AI Agent Researcher at **Tencent FinTech**, focusing on **AI Agents**, especially **Deep Search** — building systems that search, connect, and verify scattered evidence across the web to produce grounded answers.
 
-- 🎓 I received my master's degree from the School of Future Technology, South China University of Technology, under the guidance of Prof. [Xu Jin](https://www2.scut.edu.cn/ft/2021/1220/c29779a467423/page.htm). Before that, I joined the Multi-relational Geometric Information Interaction *(MAGIC)* Research Group at Xi’an Jiaotong University with Prof. [Danyang Wu](https://danyangwucs.github.io/), working on multi-view graph clustering. I received my B. Eng. degree from the [School of Computer and Information Engineering](http://ci.hfut.edu.cn/), [Hefei University of Technology](http://www.hfut.edu.cn/) in June 2023, where I was awarded the 2022 **National Scholarship (<1%)** and **Anhui Outstanding Graduate (<1%)**.
+- 🎓 I received my master's degree from the School of Future Technology, [South China University of Technology](https://www.scut.edu.cn/), advised by Prof. [Xu Jin](https://www2.scut.edu.cn/ft/2021/1220/c29779a467423/page.htm), and my B.Eng. from [Hefei University of Technology](http://www.hfut.edu.cn/) in 2023, where I was awarded the **National Scholarship (<1%)** and **Anhui Outstanding Graduate (<1%)**.
 
 #### Language&Platform&Tools
 <p align="center">
